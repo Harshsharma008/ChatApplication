@@ -1,6 +1,6 @@
 # Real Time Chat Application
 * This is a real-time chat application built using React and Firebase. It allows users to communicate with each other in real-time, creating a seamless and interactive chatting experience.
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Features
 * *Real-time Messaging*: Enjoy instant messaging with real-time updates. Messages are delivered and displayed as soon as they are sent.
 
@@ -15,4 +15,5 @@
 * *Firebase Realtime Database*: Stores and synchronizes the chat messages in real-time.
 
 * *Firebase Authentication*: Handles user authentication, allowing users to securely sign up and log in.
+* *Chakra UI*: A popular UI component library for React that allows for the creation of aesthetically pleasing and responsive interfaces with ease.
 
